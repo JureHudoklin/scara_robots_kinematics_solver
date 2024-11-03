@@ -1,0 +1,7 @@
+<library path="scara_robots_kinematics_solver">
+  <class name="scara_robots_kinematics_solver/ScaraRobotsKinematicsSolver" type="scara_robots_kinematics_solver::ScaraRobotsKinematicsSolver" base_class_type="kinematics::KinematicsBase">
+    <description>
+      Custom kinematics plugin for a 4DOF SCARA robot.
+    </description>
+  </class>
+</library>
